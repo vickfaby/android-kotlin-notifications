@@ -65,7 +65,7 @@ class EggTimerFragment : Fragment() {
             val notificationChannel = NotificationChannel(
                 channelId,
                 channelName,
-                // TODO: Step 2.4 change importance
+                // TODO: Step 2.4 change importance x
                 NotificationManager.IMPORTANCE_LOW
             )
             // TODO: Step 2.6 disable badges for this channel
